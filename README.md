@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeevanshiSharma
+- 👋 Hi, I’m Deevanshi Sharma.
 - 👀 I’m interested in diffrent projects ranging from IOT and embedded systems to digital and pencil art pieces. 
 - 🌱 I’m currently an undergraduate in Btech ECE from AKTU.
 - 💞️ I’m looking to collaborate on both software and hardware projects related to Python language, C language, IOT, and Embedded systems. 
