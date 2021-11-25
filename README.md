@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Deevanshi Sharma. 
-- 🌱 I’m currently an undergraduate in Btech ECE from AKTU.
-- 📫 You can reach me via mail. My mail id is deevanshisharma25@gmail.com
+- 👋 Hey, I’m Deevanshi Sharma. 
+- 🌱 I’m an Engineering undergraduate majoring in Electronics & Communication.
+- 📫 You can reach me via mail at deevanshisharma25@gmail.com.
 
 <!---
 DeevanshiSharma/DeevanshiSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
