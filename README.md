@@ -1,5 +1,6 @@
 - 👋 Hey, I’m Deevanshi Sharma. 
-- 🌱 I’m an Engineering undergraduate majoring in Electronics & Communication.
+- I’m an Engineering undergraduate majoring in Electronics & Communication.
+- I'm  interested in the field of Data Analytics/ Product Analytics.
 - 📫 You can reach me via mail at deevanshisharma25@gmail.com.
 
 <!---
